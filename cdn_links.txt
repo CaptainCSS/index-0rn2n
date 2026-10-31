@@ -1,0 +1,658 @@
+# COMPANION ASSETS (553 uploaded ONCE per repo at relative paths, NOT multiplied):
+[index-0rn2n] settings.html -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/settings.html
+[index-0rn2n] sw.js -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/sw.js
+[index-0rn2n] tabs.html -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/tabs.html
+[index-0rn2n] assets/css/container.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/container.css
+[index-0rn2n] assets/css/error.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/error.css
+[index-0rn2n] assets/css/global.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/global.css
+[index-0rn2n] assets/css/home.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/home.css
+[index-0rn2n] assets/css/nav.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/nav.css
+[index-0rn2n] assets/css/settings.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/settings.css
+[index-0rn2n] assets/css/tabs.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/tabs.css
+[index-0rn2n] assets/css/themes/catppuccin/frappe.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/themes/catppuccin/frappe.css
+[index-0rn2n] assets/css/themes/catppuccin/latte.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/themes/catppuccin/latte.css
+[index-0rn2n] assets/css/themes/catppuccin/macchiato.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/themes/catppuccin/macchiato.css
+[index-0rn2n] assets/css/themes/catppuccin/mocha.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/themes/catppuccin/mocha.css
+[index-0rn2n] assets/css/themes/catppuccin/palette.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/themes/catppuccin/palette.css
+[index-0rn2n] assets/css/themes/color/blue.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/themes/color/blue.css
+[index-0rn2n] assets/css/themes/color/green.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/themes/color/green.css
+[index-0rn2n] assets/css/themes/color/orange.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/themes/color/orange.css
+[index-0rn2n] assets/css/themes/color/pink.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/themes/color/pink.css
+[index-0rn2n] assets/css/themes/color/purple.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/themes/color/purple.css
+[index-0rn2n] assets/css/themes/color/red.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/themes/color/red.css
+[index-0rn2n] assets/css/themes/color/turquoise.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/themes/color/turquoise.css
+[index-0rn2n] assets/css/themes/color/yellow.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/themes/color/yellow.css
+[index-0rn2n] assets/css/themes/dark/arctic.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/themes/dark/arctic.css
+[index-0rn2n] assets/css/themes/dark/black.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/themes/dark/black.css
+[index-0rn2n] assets/css/themes/dark/deep-ocean.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/themes/dark/deep-ocean.css
+[index-0rn2n] assets/css/themes/dark/forest.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/themes/dark/forest.css
+[index-0rn2n] assets/css/themes/dark/midnight.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/themes/dark/midnight.css
+[index-0rn2n] assets/css/themes/dark/neon.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/themes/dark/neon.css
+[index-0rn2n] assets/css/themes/dark/retro.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/themes/dark/retro.css
+[index-0rn2n] assets/css/themes/dark/rose.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/themes/dark/rose.css
+[index-0rn2n] assets/css/themes/dark/sky.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/themes/dark/sky.css
+[index-0rn2n] assets/css/themes/dark/synthwave.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/themes/dark/synthwave.css
+[index-0rn2n] assets/css/themes/dark/tokyo-night.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/themes/dark/tokyo-night.css
+[index-0rn2n] assets/css/themes/light/cream.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/themes/light/cream.css
+[index-0rn2n] assets/css/themes/light/light.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/themes/light/light.css
+[index-0rn2n] assets/css/themes/light/parchment.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/themes/light/parchment.css
+[index-0rn2n] assets/css/themes/pastel/blue.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/themes/pastel/blue.css
+[index-0rn2n] assets/css/themes/pastel/green.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/themes/pastel/green.css
+[index-0rn2n] assets/css/themes/pastel/orange.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/themes/pastel/orange.css
+[index-0rn2n] assets/css/themes/pastel/pink.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/themes/pastel/pink.css
+[index-0rn2n] assets/css/themes/pastel/purple.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/themes/pastel/purple.css
+[index-0rn2n] assets/css/themes/pastel/red.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/themes/pastel/red.css
+[index-0rn2n] assets/css/themes/pastel/turquoise.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/themes/pastel/turquoise.css
+[index-0rn2n] assets/css/themes/pastel/yellow.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/themes/pastel/yellow.css
+[index-0rn2n] assets/css/themes/template.css -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/css/themes/template.css
+[index-0rn2n] assets/js/analytics.js -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/js/analytics.js
+[index-0rn2n] assets/js/block.js -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/js/block.js
+[index-0rn2n] assets/js/cursor.js -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/js/cursor.js
+[index-0rn2n] assets/js/home.js -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/js/home.js
+[index-0rn2n] assets/js/launcher.js -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/js/launcher.js
+[index-0rn2n] assets/js/main.js -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/js/main.js
+[index-0rn2n] assets/js/particles.js -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/js/particles.js
+[index-0rn2n] assets/js/search.js -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/js/search.js
+[index-0rn2n] assets/js/settings.js -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/js/settings.js
+[index-0rn2n] assets/js/storage.js -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/js/storage.js
+[index-0rn2n] assets/js/tabs.js -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/js/tabs.js
+[index-0rn2n] assets/js/vendor.js -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/js/vendor.js
+[index-0rn2n] assets/json/apps.json -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/json/apps.json
+[index-0rn2n] assets/json/apps.min.json -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/json/apps.min.json
+[index-0rn2n] assets/json/games.json -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/json/games.json
+[index-0rn2n] assets/json/games.min.json -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/json/games.min.json
+[index-0rn2n] assets/media/background/minecraft-aesthetic.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-aesthetic.webp
+[index-0rn2n] assets/media/background/minecraft-ancient-city.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-ancient-city.webp
+[index-0rn2n] assets/media/background/minecraft-bees.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-bees.webp
+[index-0rn2n] assets/media/background/minecraft-birch-with-rainbow.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-birch-with-rainbow.webp
+[index-0rn2n] assets/media/background/minecraft-blue-night.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-blue-night.webp
+[index-0rn2n] assets/media/background/minecraft-cathedral.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-cathedral.webp
+[index-0rn2n] assets/media/background/minecraft-cave-flowers.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-cave-flowers.webp
+[index-0rn2n] assets/media/background/minecraft-cave-v2.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-cave-v2.webp
+[index-0rn2n] assets/media/background/minecraft-cave.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-cave.webp
+[index-0rn2n] assets/media/background/minecraft-cherry-blossom-sunrise.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-cherry-blossom-sunrise.webp
+[index-0rn2n] assets/media/background/minecraft-cherry-with-sheep.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-cherry-with-sheep.webp
+[index-0rn2n] assets/media/background/minecraft-dappled-forest.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-dappled-forest.webp
+[index-0rn2n] assets/media/background/minecraft-desert-fog.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-desert-fog.webp
+[index-0rn2n] assets/media/background/minecraft-desert.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-desert.webp
+[index-0rn2n] assets/media/background/minecraft-dock.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-dock.webp
+[index-0rn2n] assets/media/background/minecraft-end.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-end.webp
+[index-0rn2n] assets/media/background/minecraft-firefly-bush.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-firefly-bush.webp
+[index-0rn2n] assets/media/background/minecraft-frozen-ocean.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-frozen-ocean.webp
+[index-0rn2n] assets/media/background/minecraft-gloomy.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-gloomy.webp
+[index-0rn2n] assets/media/background/minecraft-golden-hour.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-golden-hour.webp
+[index-0rn2n] assets/media/background/minecraft-house.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-house.webp
+[index-0rn2n] assets/media/background/minecraft-ice-spikes-sunset.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-ice-spikes-sunset.webp
+[index-0rn2n] assets/media/background/minecraft-jungle.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-jungle.webp
+[index-0rn2n] assets/media/background/minecraft-lukewarm-ocean.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-lukewarm-ocean.webp
+[index-0rn2n] assets/media/background/minecraft-lush-cave-v2.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-lush-cave-v2.webp
+[index-0rn2n] assets/media/background/minecraft-lush-cave-v3.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-lush-cave-v3.webp
+[index-0rn2n] assets/media/background/minecraft-lush-cave.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-lush-cave.webp
+[index-0rn2n] assets/media/background/minecraft-mangrove-swamp.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-mangrove-swamp.webp
+[index-0rn2n] assets/media/background/minecraft-nether-crimson-forest.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-nether-crimson-forest.webp
+[index-0rn2n] assets/media/background/minecraft-nether-warped-forest.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-nether-warped-forest.webp
+[index-0rn2n] assets/media/background/minecraft-night-desert-village.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-night-desert-village.webp
+[index-0rn2n] assets/media/background/minecraft-night-mountain.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-night-mountain.webp
+[index-0rn2n] assets/media/background/minecraft-night-scary.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-night-scary.webp
+[index-0rn2n] assets/media/background/minecraft-night.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-night.webp
+[index-0rn2n] assets/media/background/minecraft-pale-garden.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-pale-garden.webp
+[index-0rn2n] assets/media/background/minecraft-plains-lake.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-plains-lake.webp
+[index-0rn2n] assets/media/background/minecraft-plains.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-plains.webp
+[index-0rn2n] assets/media/background/minecraft-rainy-plains.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-rainy-plains.webp
+[index-0rn2n] assets/media/background/minecraft-realistic.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-realistic.webp
+[index-0rn2n] assets/media/background/minecraft-savannah-shores.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-savannah-shores.webp
+[index-0rn2n] assets/media/background/minecraft-savannah.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-savannah.webp
+[index-0rn2n] assets/media/background/minecraft-ships.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-ships.webp
+[index-0rn2n] assets/media/background/minecraft-snowy-mountain-cloudy.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-snowy-mountain-cloudy.webp
+[index-0rn2n] assets/media/background/minecraft-snowy-mountains.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-snowy-mountains.webp
+[index-0rn2n] assets/media/background/minecraft-spruce-forest.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-spruce-forest.webp
+[index-0rn2n] assets/media/background/minecraft-spruce-realistic.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-spruce-realistic.webp
+[index-0rn2n] assets/media/background/minecraft-swamp-green-fog.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-swamp-green-fog.webp
+[index-0rn2n] assets/media/background/minecraft-swamp-sunrise.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-swamp-sunrise.webp
+[index-0rn2n] assets/media/background/minecraft-swamp-sunset.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-swamp-sunset.webp
+[index-0rn2n] assets/media/background/minecraft-swamp.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-swamp.webp
+[index-0rn2n] assets/media/background/minecraft-town-v2.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-town-v2.webp
+[index-0rn2n] assets/media/background/minecraft-town.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-town.webp
+[index-0rn2n] assets/media/background/minecraft-underwater-foggy.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-underwater-foggy.webp
+[index-0rn2n] assets/media/background/minecraft-underwater-v2.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-underwater-v2.webp
+[index-0rn2n] assets/media/background/minecraft-underwater.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-underwater.webp
+[index-0rn2n] assets/media/background/minecraft-village.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-village.webp
+[index-0rn2n] assets/media/background/minecraft-wheat-mountain.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/minecraft-wheat-mountain.webp
+[index-0rn2n] assets/media/background/smoke-element.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/smoke-element.webp
+[index-0rn2n] assets/media/background/v5-inverted.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/v5-inverted.webp
+[index-0rn2n] assets/media/background/v5-wallpaper.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/background/v5-wallpaper.webp
+[index-0rn2n] assets/media/favicon/bim.ico -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/bim.ico
+[index-0rn2n] assets/media/favicon/britannica.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/britannica.png
+[index-0rn2n] assets/media/favicon/campus.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/campus.png
+[index-0rn2n] assets/media/favicon/canvas.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/canvas.png
+[index-0rn2n] assets/media/favicon/classlink-login.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/classlink-login.png
+[index-0rn2n] assets/media/favicon/classroom.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/classroom.png
+[index-0rn2n] assets/media/favicon/clever.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/clever.png
+[index-0rn2n] assets/media/favicon/codehs.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/codehs.png
+[index-0rn2n] assets/media/favicon/deltamath.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/deltamath.png
+[index-0rn2n] assets/media/favicon/dictionary.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/dictionary.png
+[index-0rn2n] assets/media/favicon/drive.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/drive.png
+[index-0rn2n] assets/media/favicon/ducksters.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/ducksters.png
+[index-0rn2n] assets/media/favicon/edpuzzle.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/edpuzzle.png
+[index-0rn2n] assets/media/favicon/favicon.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/favicon.png
+[index-0rn2n] assets/media/favicon/gmail.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/gmail.png
+[index-0rn2n] assets/media/favicon/goguardian-lock.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/goguardian-lock.png
+[index-0rn2n] assets/media/favicon/goguardian.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/goguardian.png
+[index-0rn2n] assets/media/favicon/google-docs.ico -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/google-docs.ico
+[index-0rn2n] assets/media/favicon/google-meet.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/google-meet.png
+[index-0rn2n] assets/media/favicon/google-slides.ico -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/google-slides.ico
+[index-0rn2n] assets/media/favicon/google.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/google.png
+[index-0rn2n] assets/media/favicon/googleforms.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/googleforms.png
+[index-0rn2n] assets/media/favicon/i-ready.ico -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/i-ready.ico
+[index-0rn2n] assets/media/favicon/ixl.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/ixl.png
+[index-0rn2n] assets/media/favicon/kami.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/kami.png
+[index-0rn2n] assets/media/favicon/khan.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/khan.png
+[index-0rn2n] assets/media/favicon/linkit.ico -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/linkit.ico
+[index-0rn2n] assets/media/favicon/main-inverted.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/main-inverted.png
+[index-0rn2n] assets/media/favicon/main.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/main.png
+[index-0rn2n] assets/media/favicon/minga.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/minga.png
+[index-0rn2n] assets/media/favicon/naviance.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/naviance.png
+[index-0rn2n] assets/media/favicon/nearpod.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/nearpod.png
+[index-0rn2n] assets/media/favicon/newsela.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/newsela.png
+[index-0rn2n] assets/media/favicon/noredink.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/noredink.webp
+[index-0rn2n] assets/media/favicon/pbslearningmedia.ico -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/pbslearningmedia.ico
+[index-0rn2n] assets/media/favicon/powerschool.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/powerschool.png
+[index-0rn2n] assets/media/favicon/quizlet.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/quizlet.webp
+[index-0rn2n] assets/media/favicon/savvas-realize.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/savvas-realize.png
+[index-0rn2n] assets/media/favicon/schoology.ico -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/schoology.ico
+[index-0rn2n] assets/media/favicon/schoology.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/schoology.png
+[index-0rn2n] assets/media/favicon/smartpass.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/smartpass.png
+[index-0rn2n] assets/media/favicon/space.ico -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/space.ico
+[index-0rn2n] assets/media/favicon/studentvue.ico -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/studentvue.ico
+[index-0rn2n] assets/media/favicon/thesaurus.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/thesaurus.png
+[index-0rn2n] assets/media/favicon/wbo.ico -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/wbo.ico
+[index-0rn2n] assets/media/favicon/wikipedia.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/wikipedia.png
+[index-0rn2n] assets/media/favicon/worldhistoryencyclopedia.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/favicon/worldhistoryencyclopedia.png
+[index-0rn2n] assets/media/icons/1.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/1.webp
+[index-0rn2n] assets/media/icons/1v1-lol.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/1v1-lol.webp
+[index-0rn2n] assets/media/icons/2048.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/2048.webp
+[index-0rn2n] assets/media/icons/2D-Rocket-League.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/2D-Rocket-League.webp
+[index-0rn2n] assets/media/icons/3slices.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/3slices.webp
+[index-0rn2n] assets/media/icons/60-second-burger-run.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/60-second-burger-run.webp
+[index-0rn2n] assets/media/icons/8ball.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/8ball.webp
+[index-0rn2n] assets/media/icons/aa.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/aa.webp
+[index-0rn2n] assets/media/icons/acww.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/acww.webp
+[index-0rn2n] assets/media/icons/addictinggames.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/addictinggames.webp
+[index-0rn2n] assets/media/icons/ADR.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/ADR.webp
+[index-0rn2n] assets/media/icons/adventure-capitalist.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/adventure-capitalist.webp
+[index-0rn2n] assets/media/icons/agario.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/agario.webp
+[index-0rn2n] assets/media/icons/ageofwar.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/ageofwar.webp
+[index-0rn2n] assets/media/icons/akinator.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/akinator.webp
+[index-0rn2n] assets/media/icons/amazon-luna.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/amazon-luna.webp
+[index-0rn2n] assets/media/icons/amazon.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/amazon.webp
+[index-0rn2n] assets/media/icons/android.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/android.webp
+[index-0rn2n] assets/media/icons/antwario.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/antwario.webp
+[index-0rn2n] assets/media/icons/apex.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/apex.webp
+[index-0rn2n] assets/media/icons/aptoide.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/aptoide.webp
+[index-0rn2n] assets/media/icons/arrasio.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/arrasio.webp
+[index-0rn2n] assets/media/icons/bakeria.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/bakeria.webp
+[index-0rn2n] assets/media/icons/banditrip.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/banditrip.webp
+[index-0rn2n] assets/media/icons/basket-bros.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/basket-bros.webp
+[index-0rn2n] assets/media/icons/basketball-legends.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/basketball-legends.webp
+[index-0rn2n] assets/media/icons/basketball-stars.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/basketball-stars.webp
+[index-0rn2n] assets/media/icons/BFM.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/BFM.webp
+[index-0rn2n] assets/media/icons/biggiecheese.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/biggiecheese.webp
+[index-0rn2n] assets/media/icons/bigtowertinysquare.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/bigtowertinysquare.webp
+[index-0rn2n] assets/media/icons/bitlife.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/bitlife.webp
+[index-0rn2n] assets/media/icons/bl.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/bl.webp
+[index-0rn2n] assets/media/icons/bloonstd.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/bloonstd.webp
+[index-0rn2n] assets/media/icons/bloonstd2.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/bloonstd2.webp
+[index-0rn2n] assets/media/icons/bloxd-io.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/bloxd-io.webp
+[index-0rn2n] assets/media/icons/book2.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/book2.webp
+[index-0rn2n] assets/media/icons/BP.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/BP.webp
+[index-0rn2n] assets/media/icons/br.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/br.webp
+[index-0rn2n] assets/media/icons/braintest.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/braintest.webp
+[index-0rn2n] assets/media/icons/braintest2.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/braintest2.webp
+[index-0rn2n] assets/media/icons/braintest3.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/braintest3.webp
+[index-0rn2n] assets/media/icons/btd4.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/btd4.webp
+[index-0rn2n] assets/media/icons/buckshotroulette.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/buckshotroulette.webp
+[index-0rn2n] assets/media/icons/build-now.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/build-now.webp
+[index-0rn2n] assets/media/icons/burritobison.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/burritobison.webp
+[index-0rn2n] assets/media/icons/buzzfeed.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/buzzfeed.webp
+[index-0rn2n] assets/media/icons/C2048.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/C2048.webp
+[index-0rn2n] assets/media/icons/candybox.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/candybox.webp
+[index-0rn2n] assets/media/icons/candyjump.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/candyjump.webp
+[index-0rn2n] assets/media/icons/canva.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/canva.webp
+[index-0rn2n] assets/media/icons/cat-ninja.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/cat-ninja.webp
+[index-0rn2n] assets/media/icons/celeste.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/celeste.webp
+[index-0rn2n] assets/media/icons/characterai.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/characterai.webp
+[index-0rn2n] assets/media/icons/chatgpt.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/chatgpt.webp
+[index-0rn2n] assets/media/icons/chess.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/chess.webp
+[index-0rn2n] assets/media/icons/cl.jpg -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/cl.jpg
+[index-0rn2n] assets/media/icons/clickerheros.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/clickerheros.webp
+[index-0rn2n] assets/media/icons/cluster-rush.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/cluster-rush.webp
+[index-0rn2n] assets/media/icons/cn.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/cn.png
+[index-0rn2n] assets/media/icons/cookieclicker.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/cookieclicker.webp
+[index-0rn2n] assets/media/icons/cookierunkingdom.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/cookierunkingdom.webp
+[index-0rn2n] assets/media/icons/cookingmama.jpg -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/cookingmama.jpg
+[index-0rn2n] assets/media/icons/coolmath.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/coolmath.webp
+[index-0rn2n] assets/media/icons/cr.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/cr.webp
+[index-0rn2n] assets/media/icons/crazy.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/crazy.webp
+[index-0rn2n] assets/media/icons/cryzen.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/cryzen.webp
+[index-0rn2n] assets/media/icons/cs16.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/cs16.webp
+[index-0rn2n] assets/media/icons/csgoparkour.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/csgoparkour.webp
+[index-0rn2n] assets/media/icons/cupcakeria.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/cupcakeria.webp
+[index-0rn2n] assets/media/icons/custom.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/custom.webp
+[index-0rn2n] assets/media/icons/da.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/da.webp
+[index-0rn2n] assets/media/icons/db.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/db.webp
+[index-0rn2n] assets/media/icons/dc.jpg -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/dc.jpg
+[index-0rn2n] assets/media/icons/deadshot.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/deadshot.webp
+[index-0rn2n] assets/media/icons/deal-or-no-deal.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/deal-or-no-deal.webp
+[index-0rn2n] assets/media/icons/deeeepio.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/deeeepio.webp
+[index-0rn2n] assets/media/icons/deepest-sword.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/deepest-sword.webp
+[index-0rn2n] assets/media/icons/diep.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/diep.webp
+[index-0rn2n] assets/media/icons/digdigio.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/digdigio.webp
+[index-0rn2n] assets/media/icons/dl4.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/dl4.webp
+[index-0rn2n] assets/media/icons/dm.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/dm.webp
+[index-0rn2n] assets/media/icons/doge-miner-1.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/doge-miner-1.webp
+[index-0rn2n] assets/media/icons/doodlejump.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/doodlejump.webp
+[index-0rn2n] assets/media/icons/DOOM.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/DOOM.webp
+[index-0rn2n] assets/media/icons/doom2.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/doom2.webp
+[index-0rn2n] assets/media/icons/dreader.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/dreader.webp
+[index-0rn2n] assets/media/icons/drift-hunters.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/drift-hunters.webp
+[index-0rn2n] assets/media/icons/ds.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/ds.webp
+[index-0rn2n] assets/media/icons/duckduckgo.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/duckduckgo.webp
+[index-0rn2n] assets/media/icons/ducklife.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/ducklife.webp
+[index-0rn2n] assets/media/icons/dynast-io.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/dynast-io.webp
+[index-0rn2n] assets/media/icons/earntodie2012part2.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/earntodie2012part2.webp
+[index-0rn2n] assets/media/icons/easports-fcmobile24.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/easports-fcmobile24.webp
+[index-0rn2n] assets/media/icons/easports-ufc.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/easports-ufc.webp
+[index-0rn2n] assets/media/icons/ep.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/ep.png
+[index-0rn2n] assets/media/icons/espn.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/espn.webp
+[index-0rn2n] assets/media/icons/evadesio.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/evadesio.webp
+[index-0rn2n] assets/media/icons/evio.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/evio.webp
+[index-0rn2n] assets/media/icons/fallout2.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/fallout2.webp
+[index-0rn2n] assets/media/icons/fancade.jpg -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/fancade.jpg
+[index-0rn2n] assets/media/icons/fancypantsadventures.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/fancypantsadventures.webp
+[index-0rn2n] assets/media/icons/fancypantsadventures2.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/fancypantsadventures2.webp
+[index-0rn2n] assets/media/icons/feedvid.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/feedvid.webp
+[index-0rn2n] assets/media/icons/fifa.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/fifa.webp
+[index-0rn2n] assets/media/icons/fireboyandwatergirlcrystaltemple.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/fireboyandwatergirlcrystaltemple.webp
+[index-0rn2n] assets/media/icons/fireboyandwatergirlelements.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/fireboyandwatergirlelements.webp
+[index-0rn2n] assets/media/icons/fireboyandwatergirlfairytales.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/fireboyandwatergirlfairytales.webp
+[index-0rn2n] assets/media/icons/fireboyandwatergirlforesttemple.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/fireboyandwatergirlforesttemple.webp
+[index-0rn2n] assets/media/icons/fireboyandwatergirllighttemple.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/fireboyandwatergirllighttemple.webp
+[index-0rn2n] assets/media/icons/firefox.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/firefox.webp
+[index-0rn2n] assets/media/icons/flixhq.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/flixhq.webp
+[index-0rn2n] assets/media/icons/florr.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/florr.webp
+[index-0rn2n] assets/media/icons/FM.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/FM.png
+[index-0rn2n] assets/media/icons/fmhy.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/fmhy.webp
+[index-0rn2n] assets/media/icons/FNAF2.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/FNAF2.webp
+[index-0rn2n] assets/media/icons/FNAF3.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/FNAF3.webp
+[index-0rn2n] assets/media/icons/FNAFWeb.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/FNAFWeb.webp
+[index-0rn2n] assets/media/icons/fnaw.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/fnaw.webp
+[index-0rn2n] assets/media/icons/fnf.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/fnf.webp
+[index-0rn2n] assets/media/icons/fortnite.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/fortnite.webp
+[index-0rn2n] assets/media/icons/freefire.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/freefire.webp
+[index-0rn2n] assets/media/icons/garticphone.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/garticphone.webp
+[index-0rn2n] assets/media/icons/gba.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/gba.png
+[index-0rn2n] assets/media/icons/gba.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/gba.webp
+[index-0rn2n] assets/media/icons/gc2.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/gc2.webp
+[index-0rn2n] assets/media/icons/geforce-now.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/geforce-now.webp
+[index-0rn2n] assets/media/icons/gemini.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/gemini.webp
+[index-0rn2n] assets/media/icons/genshinimpact.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/genshinimpact.webp
+[index-0rn2n] assets/media/icons/getaway.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/getaway.webp
+[index-0rn2n] assets/media/icons/gidd.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/gidd.webp
+[index-0rn2n] assets/media/icons/github.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/github.webp
+[index-0rn2n] assets/media/icons/gladihoppers.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/gladihoppers.webp
+[index-0rn2n] assets/media/icons/gm.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/gm.png
+[index-0rn2n] assets/media/icons/gmail.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/gmail.webp
+[index-0rn2n] assets/media/icons/goal.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/goal.webp
+[index-0rn2n] assets/media/icons/golden-eye-007.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/golden-eye-007.webp
+[index-0rn2n] assets/media/icons/google.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/google.webp
+[index-0rn2n] assets/media/icons/googlebaseball.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/googlebaseball.webp
+[index-0rn2n] assets/media/icons/googlefeud.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/googlefeud.webp
+[index-0rn2n] assets/media/icons/gpt.jpg -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/gpt.jpg
+[index-0rn2n] assets/media/icons/gswitch.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/gswitch.webp
+[index-0rn2n] assets/media/icons/gswitch2.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/gswitch2.webp
+[index-0rn2n] assets/media/icons/gswitch3.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/gswitch3.webp
+[index-0rn2n] assets/media/icons/guilded.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/guilded.webp
+[index-0rn2n] assets/media/icons/gunspin.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/gunspin.webp
+[index-0rn2n] assets/media/icons/gz.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/gz.webp
+[index-0rn2n] assets/media/icons/half-life.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/half-life.webp
+[index-0rn2n] assets/media/icons/happywheels.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/happywheels.webp
+[index-0rn2n] assets/media/icons/hbo.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/hbo.webp
+[index-0rn2n] assets/media/icons/hd.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/hd.webp
+[index-0rn2n] assets/media/icons/heartgold.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/heartgold.webp
+[index-0rn2n] assets/media/icons/helixjump.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/helixjump.webp
+[index-0rn2n] assets/media/icons/help_center_googlefonts.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/help_center_googlefonts.png
+[index-0rn2n] assets/media/icons/hexarena.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/hexarena.webp
+[index-0rn2n] assets/media/icons/hole.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/hole.webp
+[index-0rn2n] assets/media/icons/hordes.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/hordes.webp
+[index-0rn2n] assets/media/icons/hw.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/hw.webp
+[index-0rn2n] assets/media/icons/idlebreakout.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/idlebreakout.webp
+[index-0rn2n] assets/media/icons/idlestartup.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/idlestartup.webp
+[index-0rn2n] assets/media/icons/insta.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/insta.webp
+[index-0rn2n] assets/media/icons/interactive-buddy.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/interactive-buddy.webp
+[index-0rn2n] assets/media/icons/isleward.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/isleward.webp
+[index-0rn2n] assets/media/icons/itch.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/itch.webp
+[index-0rn2n] assets/media/icons/iv.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/iv.webp
+[index-0rn2n] assets/media/icons/jacksmith.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/jacksmith.webp
+[index-0rn2n] assets/media/icons/jellymario.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/jellymario.webp
+[index-0rn2n] assets/media/icons/jetpackjoyride.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/jetpackjoyride.webp
+[index-0rn2n] assets/media/icons/johnnyupgrade.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/johnnyupgrade.webp
+[index-0rn2n] assets/media/icons/just-fall-lol.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/just-fall-lol.webp
+[index-0rn2n] assets/media/icons/kiomet.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/kiomet.webp
+[index-0rn2n] assets/media/icons/kirby.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/kirby.webp
+[index-0rn2n] assets/media/icons/kirka.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/kirka.webp
+[index-0rn2n] assets/media/icons/km.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/km.webp
+[index-0rn2n] assets/media/icons/krunker.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/krunker.webp
+[index-0rn2n] assets/media/icons/learntofly3.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/learntofly3.webp
+[index-0rn2n] assets/media/icons/lofi.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/lofi.webp
+[index-0rn2n] assets/media/icons/lordz.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/lordz.webp
+[index-0rn2n] assets/media/icons/lostgamerio.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/lostgamerio.webp
+[index-0rn2n] assets/media/icons/louie1.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/louie1.webp
+[index-0rn2n] assets/media/icons/louie2.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/louie2.webp
+[index-0rn2n] assets/media/icons/lp.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/lp.webp
+[index-0rn2n] assets/media/icons/ltf_idle.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/ltf_idle.webp
+[index-0rn2n] assets/media/icons/madalinmultiplayer.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/madalinmultiplayer.webp
+[index-0rn2n] assets/media/icons/madalinstuntcars2.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/madalinstuntcars2.webp
+[index-0rn2n] assets/media/icons/madalinstuntcars3.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/madalinstuntcars3.webp
+[index-0rn2n] assets/media/icons/maddennfl24.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/maddennfl24.webp
+[index-0rn2n] assets/media/icons/marblesgarden.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/marblesgarden.webp
+[index-0rn2n] assets/media/icons/mario-kart-64.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/mario-kart-64.webp
+[index-0rn2n] assets/media/icons/mariokartds.jpg -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/mariokartds.jpg
+[index-0rn2n] assets/media/icons/masked-forces.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/masked-forces.webp
+[index-0rn2n] assets/media/icons/mc.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/mc.webp
+[index-0rn2n] assets/media/icons/melonplayground.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/melonplayground.webp
+[index-0rn2n] assets/media/icons/mergefruit.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/mergefruit.webp
+[index-0rn2n] assets/media/icons/messenger.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/messenger.webp
+[index-0rn2n] assets/media/icons/mk48io.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/mk48io.webp
+[index-0rn2n] assets/media/icons/mlb.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/mlb.webp
+[index-0rn2n] assets/media/icons/mm.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/mm.webp
+[index-0rn2n] assets/media/icons/mobsinc.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/mobsinc.webp
+[index-0rn2n] assets/media/icons/moo.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/moo.webp
+[index-0rn2n] assets/media/icons/mope-io.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/mope-io.webp
+[index-0rn2n] assets/media/icons/mortal-kombat-4.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/mortal-kombat-4.webp
+[index-0rn2n] assets/media/icons/movie-web.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/movie-web.webp
+[index-0rn2n] assets/media/icons/mrmine.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/mrmine.webp
+[index-0rn2n] assets/media/icons/MW.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/MW.png
+[index-0rn2n] assets/media/icons/mx3m-spooky.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/mx3m-spooky.webp
+[index-0rn2n] assets/media/icons/mx3m-winter.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/mx3m-winter.webp
+[index-0rn2n] assets/media/icons/mx3m.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/mx3m.webp
+[index-0rn2n] assets/media/icons/N64.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/N64.webp
+[index-0rn2n] assets/media/icons/na.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/na.webp
+[index-0rn2n] assets/media/icons/narrowone.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/narrowone.webp
+[index-0rn2n] assets/media/icons/nba.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/nba.webp
+[index-0rn2n] assets/media/icons/nealfun.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/nealfun.webp
+[index-0rn2n] assets/media/icons/newgrounds.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/newgrounds.webp
+[index-0rn2n] assets/media/icons/nfl.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/nfl.webp
+[index-0rn2n] assets/media/icons/ng.jpg -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/ng.jpg
+[index-0rn2n] assets/media/icons/NGON.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/NGON.webp
+[index-0rn2n] assets/media/icons/nguidle.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/nguidle.webp
+[index-0rn2n] assets/media/icons/ninja-cat.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/ninja-cat.webp
+[index-0rn2n] assets/media/icons/now-gg.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/now-gg.webp
+[index-0rn2n] assets/media/icons/OR.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/OR.webp
+[index-0rn2n] assets/media/icons/osm.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/osm.webp
+[index-0rn2n] assets/media/icons/outlook.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/outlook.webp
+[index-0rn2n] assets/media/icons/ovo.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/ovo.webp
+[index-0rn2n] assets/media/icons/papa-louie-3.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/papa-louie-3.webp
+[index-0rn2n] assets/media/icons/papasburgeria.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/papasburgeria.webp
+[index-0rn2n] assets/media/icons/papascheeseria.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/papascheeseria.webp
+[index-0rn2n] assets/media/icons/papasfreezeria.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/papasfreezeria.webp
+[index-0rn2n] assets/media/icons/papaspancakeria.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/papaspancakeria.webp
+[index-0rn2n] assets/media/icons/papasscooperia.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/papasscooperia.webp
+[index-0rn2n] assets/media/icons/papassushiria.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/papassushiria.webp
+[index-0rn2n] assets/media/icons/papaswingeria.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/papaswingeria.webp
+[index-0rn2n] assets/media/icons/paper-mario-64.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/paper-mario-64.webp
+[index-0rn2n] assets/media/icons/paperio.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/paperio.webp
+[index-0rn2n] assets/media/icons/paramount.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/paramount.webp
+[index-0rn2n] assets/media/icons/parkourblock3d.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/parkourblock3d.webp
+[index-0rn2n] assets/media/icons/pc.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/pc.png
+[index-0rn2n] assets/media/icons/pdn.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/pdn.png
+[index-0rn2n] assets/media/icons/pinterest.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/pinterest.webp
+[index-0rn2n] assets/media/icons/pix.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/pix.webp
+[index-0rn2n] assets/media/icons/pixel-shooter.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/pixel-shooter.webp
+[index-0rn2n] assets/media/icons/pizza-tower.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/pizza-tower.webp
+[index-0rn2n] assets/media/icons/pizzeria.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/pizzeria.webp
+[index-0rn2n] assets/media/icons/pl.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/pl.webp
+[index-0rn2n] assets/media/icons/poki.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/poki.webp
+[index-0rn2n] assets/media/icons/powerline.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/powerline.webp
+[index-0rn2n] assets/media/icons/pranx.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/pranx.webp
+[index-0rn2n] assets/media/icons/precision.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/precision.webp
+[index-0rn2n] assets/media/icons/proton.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/proton.webp
+[index-0rn2n] assets/media/icons/PS2.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/PS2.webp
+[index-0rn2n] assets/media/icons/ptr.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/ptr.webp
+[index-0rn2n] assets/media/icons/qb.jpg -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/qb.jpg
+[index-0rn2n] assets/media/icons/r6.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/r6.webp
+[index-0rn2n] assets/media/icons/rainbowobby.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/rainbowobby.webp
+[index-0rn2n] assets/media/icons/rainbowtower.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/rainbowtower.webp
+[index-0rn2n] assets/media/icons/redball1.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/redball1.webp
+[index-0rn2n] assets/media/icons/redball2.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/redball2.webp
+[index-0rn2n] assets/media/icons/redball4.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/redball4.webp
+[index-0rn2n] assets/media/icons/redball4vol2.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/redball4vol2.webp
+[index-0rn2n] assets/media/icons/redball4vol3.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/redball4vol3.webp
+[index-0rn2n] assets/media/icons/request.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/request.webp
+[index-0rn2n] assets/media/icons/retro.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/retro.webp
+[index-0rn2n] assets/media/icons/riddle-school.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/riddle-school.webp
+[index-0rn2n] assets/media/icons/roblox.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/roblox.webp
+[index-0rn2n] assets/media/icons/rocketbotroyale.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/rocketbotroyale.webp
+[index-0rn2n] assets/media/icons/rocketpult.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/rocketpult.webp
+[index-0rn2n] assets/media/icons/rooftop.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/rooftop.webp
+[index-0rn2n] assets/media/icons/rooftopsnipers2.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/rooftopsnipers2.webp
+[index-0rn2n] assets/media/icons/rs2.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/rs2.webp
+[index-0rn2n] assets/media/icons/rs3.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/rs3.webp
+[index-0rn2n] assets/media/icons/rs4.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/rs4.webp
+[index-0rn2n] assets/media/icons/rs5.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/rs5.webp
+[index-0rn2n] assets/media/icons/run3.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/run3.webp
+[index-0rn2n] assets/media/icons/sand.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/sand.webp
+[index-0rn2n] assets/media/icons/sandboxels.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/sandboxels.webp
+[index-0rn2n] assets/media/icons/sandtrix.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/sandtrix.webp
+[index-0rn2n] assets/media/icons/saulrun.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/saulrun.webp
+[index-0rn2n] assets/media/icons/sc.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/sc.png
+[index-0rn2n] assets/media/icons/scratch-among-us.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/scratch-among-us.webp
+[index-0rn2n] assets/media/icons/scratch.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/scratch.webp
+[index-0rn2n] assets/media/icons/SF.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/SF.webp
+[index-0rn2n] assets/media/icons/shapezio.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/shapezio.webp
+[index-0rn2n] assets/media/icons/shell-shockers.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/shell-shockers.webp
+[index-0rn2n] assets/media/icons/showdown.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/showdown.webp
+[index-0rn2n] assets/media/icons/shuttle.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/shuttle.webp
+[index-0rn2n] assets/media/icons/skribblio.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/skribblio.webp
+[index-0rn2n] assets/media/icons/slither.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/slither.webp
+[index-0rn2n] assets/media/icons/slope.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/slope.webp
+[index-0rn2n] assets/media/icons/sm63.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/sm63.webp
+[index-0rn2n] assets/media/icons/sm64.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/sm64.webp
+[index-0rn2n] assets/media/icons/smashkarts.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/smashkarts.webp
+[index-0rn2n] assets/media/icons/SMB.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/SMB.webp
+[index-0rn2n] assets/media/icons/snake.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/snake.webp
+[index-0rn2n] assets/media/icons/snap.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/snap.webp
+[index-0rn2n] assets/media/icons/snorlax.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/snorlax.webp
+[index-0rn2n] assets/media/icons/snowball.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/snowball.webp
+[index-0rn2n] assets/media/icons/snowrider3d.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/snowrider3d.webp
+[index-0rn2n] assets/media/icons/solarsmash.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/solarsmash.webp
+[index-0rn2n] assets/media/icons/soundcloud.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/soundcloud.webp
+[index-0rn2n] assets/media/icons/spacehey.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/spacehey.png
+[index-0rn2n] assets/media/icons/spaceplan.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/spaceplan.webp
+[index-0rn2n] assets/media/icons/spotify.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/spotify.webp
+[index-0rn2n] assets/media/icons/ssf1.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/ssf1.webp
+[index-0rn2n] assets/media/icons/stabfish.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/stabfish.webp
+[index-0rn2n] assets/media/icons/starblastio.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/starblastio.webp
+[index-0rn2n] assets/media/icons/steam.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/steam.webp
+[index-0rn2n] assets/media/icons/stickman-archero-fight.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/stickman-archero-fight.webp
+[index-0rn2n] assets/media/icons/stickmanhook.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/stickmanhook.webp
+[index-0rn2n] assets/media/icons/stompedio.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/stompedio.webp
+[index-0rn2n] assets/media/icons/stumble-guys.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/stumble-guys.webp
+[index-0rn2n] assets/media/icons/sugarsugar.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/sugarsugar.webp
+[index-0rn2n] assets/media/icons/super-smash-bros-64.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/super-smash-bros-64.webp
+[index-0rn2n] assets/media/icons/supplychainlogo.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/supplychainlogo.webp
+[index-0rn2n] assets/media/icons/SVI.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/SVI.webp
+[index-0rn2n] assets/media/icons/swordbattle.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/swordbattle.webp
+[index-0rn2n] assets/media/icons/ta.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/ta.webp
+[index-0rn2n] assets/media/icons/tamingio.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/tamingio.webp
+[index-0rn2n] assets/media/icons/tanuki.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/tanuki.webp
+[index-0rn2n] assets/media/icons/telegram.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/telegram.webp
+[index-0rn2n] assets/media/icons/temple-run-2.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/temple-run-2.webp
+[index-0rn2n] assets/media/icons/templeofboom.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/templeofboom.webp
+[index-0rn2n] assets/media/icons/temu.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/temu.webp
+[index-0rn2n] assets/media/icons/territorialio.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/territorialio.webp
+[index-0rn2n] assets/media/icons/tetrio.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/tetrio.webp
+[index-0rn2n] assets/media/icons/the-simpsons-game.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/the-simpsons-game.webp
+[index-0rn2n] assets/media/icons/theimpossiblequiz.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/theimpossiblequiz.webp
+[index-0rn2n] assets/media/icons/thelast-io.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/thelast-io.webp
+[index-0rn2n] assets/media/icons/thereisnogame.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/thereisnogame.webp
+[index-0rn2n] assets/media/icons/thisissand.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/thisissand.webp
+[index-0rn2n] assets/media/icons/tiktok.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/tiktok.webp
+[index-0rn2n] assets/media/icons/timeshooter2.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/timeshooter2.webp
+[index-0rn2n] assets/media/icons/tinyfishing.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/tinyfishing.webp
+[index-0rn2n] assets/media/icons/tocabocahairsalon4.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/tocabocahairsalon4.webp
+[index-0rn2n] assets/media/icons/tocakitchen2.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/tocakitchen2.webp
+[index-0rn2n] assets/media/icons/tocalifeworld.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/tocalifeworld.webp
+[index-0rn2n] assets/media/icons/tpg.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/tpg.webp
+[index-0rn2n] assets/media/icons/trello.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/trello.webp
+[index-0rn2n] assets/media/icons/trex-run-3D.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/trex-run-3D.webp
+[index-0rn2n] assets/media/icons/tribalsio.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/tribalsio.webp
+[index-0rn2n] assets/media/icons/tubejumpers.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/tubejumpers.webp
+[index-0rn2n] assets/media/icons/tumblr.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/tumblr.webp
+[index-0rn2n] assets/media/icons/tunnelrush.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/tunnelrush.webp
+[index-0rn2n] assets/media/icons/tunnelrush2.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/tunnelrush2.webp
+[index-0rn2n] assets/media/icons/twistedcookingmama.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/twistedcookingmama.webp
+[index-0rn2n] assets/media/icons/twitch.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/twitch.webp
+[index-0rn2n] assets/media/icons/twitter.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/twitter.webp
+[index-0rn2n] assets/media/icons/tyranio.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/tyranio.webp
+[index-0rn2n] assets/media/icons/venge.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/venge.webp
+[index-0rn2n] assets/media/icons/vercel.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/vercel.webp
+[index-0rn2n] assets/media/icons/vex3.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/vex3.webp
+[index-0rn2n] assets/media/icons/vex4.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/vex4.webp
+[index-0rn2n] assets/media/icons/vex5.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/vex5.webp
+[index-0rn2n] assets/media/icons/vex6.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/vex6.webp
+[index-0rn2n] assets/media/icons/vex7.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/vex7.webp
+[index-0rn2n] assets/media/icons/voxiom.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/voxiom.webp
+[index-0rn2n] assets/media/icons/vscode.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/vscode.webp
+[index-0rn2n] assets/media/icons/w.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/w.webp
+[index-0rn2n] assets/media/icons/W3Schools.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/W3Schools.webp
+[index-0rn2n] assets/media/icons/wattpad.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/wattpad.webp
+[index-0rn2n] assets/media/icons/webretro.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/webretro.webp
+[index-0rn2n] assets/media/icons/whatsapp.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/whatsapp.webp
+[index-0rn2n] assets/media/icons/wiki.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/wiki.webp
+[index-0rn2n] assets/media/icons/windows96.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/windows96.webp
+[index-0rn2n] assets/media/icons/wingsio.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/wingsio.webp
+[index-0rn2n] assets/media/icons/worldbox.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/worldbox.webp
+[index-0rn2n] assets/media/icons/wr.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/wr.png
+[index-0rn2n] assets/media/icons/wrassling.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/wrassling.webp
+[index-0rn2n] assets/media/icons/y8.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/y8.webp
+[index-0rn2n] assets/media/icons/yohoho.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/yohoho.webp
+[index-0rn2n] assets/media/icons/youtube.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/youtube.webp
+[index-0rn2n] assets/media/icons/zg.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/zg.webp
+[index-0rn2n] assets/media/icons/zombs-io.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/zombs-io.webp
+[index-0rn2n] assets/media/icons/zombs-royale.webp -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/media/icons/zombs-royale.webp
+[index-0rn2n] assets/scramjet/scramjet.config.js -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/scramjet/scramjet.config.js
+[index-0rn2n] assets/ultraviolet/uv.config.js -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/assets/ultraviolet/uv.config.js
+[index-0rn2n] 404.html -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/404.html
+[index-0rn2n] ads.txt -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/ads.txt
+[index-0rn2n] apps.html -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/apps.html
+[index-0rn2n] block.html -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/block.html
+[index-0rn2n] favicon.ico -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/favicon.ico
+[index-0rn2n] favicon.png -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/favicon.png
+[index-0rn2n] games.html -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/games.html
+[index-0rn2n] home.html -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/home.html
+[index-0rn2n] not-found.html -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/not-found.html
+[index-0rn2n] robots.txt -> https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/robots.txt
+
+==================================================
+
+# MULTIPLIED LINKS (100 total across 1 sites via standard):
+https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0001/index.html
+https://fastly.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0001/index.html
+https://gcore.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0001/index.html
+https://testingcf.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0001/index.html
+https://cdn.statically.io/gh/CaptainCSS/index-0rn2n/main/v0001/index.html
+https://rawcdn.githack.com/CaptainCSS/index-0rn2n/main/v0001/index.html
+https://raw.githack.com/CaptainCSS/index-0rn2n/main/v0001/index.html
+https://raw.githubusercontent.com/CaptainCSS/index-0rn2n/main/v0001/index.html
+https://esm.sh/gh/CaptainCSS/index-0rn2n@main/v0001/index.html
+https://raw.esm.sh/gh/CaptainCSS/index-0rn2n@main/v0001/index.html
+https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0002/index.html
+https://fastly.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0002/index.html
+https://gcore.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0002/index.html
+https://testingcf.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0002/index.html
+https://cdn.statically.io/gh/CaptainCSS/index-0rn2n/main/v0002/index.html
+https://rawcdn.githack.com/CaptainCSS/index-0rn2n/main/v0002/index.html
+https://raw.githack.com/CaptainCSS/index-0rn2n/main/v0002/index.html
+https://raw.githubusercontent.com/CaptainCSS/index-0rn2n/main/v0002/index.html
+https://esm.sh/gh/CaptainCSS/index-0rn2n@main/v0002/index.html
+https://raw.esm.sh/gh/CaptainCSS/index-0rn2n@main/v0002/index.html
+https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0003/index.html
+https://fastly.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0003/index.html
+https://gcore.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0003/index.html
+https://testingcf.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0003/index.html
+https://cdn.statically.io/gh/CaptainCSS/index-0rn2n/main/v0003/index.html
+https://rawcdn.githack.com/CaptainCSS/index-0rn2n/main/v0003/index.html
+https://raw.githack.com/CaptainCSS/index-0rn2n/main/v0003/index.html
+https://raw.githubusercontent.com/CaptainCSS/index-0rn2n/main/v0003/index.html
+https://esm.sh/gh/CaptainCSS/index-0rn2n@main/v0003/index.html
+https://raw.esm.sh/gh/CaptainCSS/index-0rn2n@main/v0003/index.html
+https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0004/index.html
+https://fastly.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0004/index.html
+https://gcore.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0004/index.html
+https://testingcf.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0004/index.html
+https://cdn.statically.io/gh/CaptainCSS/index-0rn2n/main/v0004/index.html
+https://rawcdn.githack.com/CaptainCSS/index-0rn2n/main/v0004/index.html
+https://raw.githack.com/CaptainCSS/index-0rn2n/main/v0004/index.html
+https://raw.githubusercontent.com/CaptainCSS/index-0rn2n/main/v0004/index.html
+https://esm.sh/gh/CaptainCSS/index-0rn2n@main/v0004/index.html
+https://raw.esm.sh/gh/CaptainCSS/index-0rn2n@main/v0004/index.html
+https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0005/index.html
+https://fastly.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0005/index.html
+https://gcore.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0005/index.html
+https://testingcf.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0005/index.html
+https://cdn.statically.io/gh/CaptainCSS/index-0rn2n/main/v0005/index.html
+https://rawcdn.githack.com/CaptainCSS/index-0rn2n/main/v0005/index.html
+https://raw.githack.com/CaptainCSS/index-0rn2n/main/v0005/index.html
+https://raw.githubusercontent.com/CaptainCSS/index-0rn2n/main/v0005/index.html
+https://esm.sh/gh/CaptainCSS/index-0rn2n@main/v0005/index.html
+https://raw.esm.sh/gh/CaptainCSS/index-0rn2n@main/v0005/index.html
+https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0006/index.html
+https://fastly.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0006/index.html
+https://gcore.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0006/index.html
+https://testingcf.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0006/index.html
+https://cdn.statically.io/gh/CaptainCSS/index-0rn2n/main/v0006/index.html
+https://rawcdn.githack.com/CaptainCSS/index-0rn2n/main/v0006/index.html
+https://raw.githack.com/CaptainCSS/index-0rn2n/main/v0006/index.html
+https://raw.githubusercontent.com/CaptainCSS/index-0rn2n/main/v0006/index.html
+https://esm.sh/gh/CaptainCSS/index-0rn2n@main/v0006/index.html
+https://raw.esm.sh/gh/CaptainCSS/index-0rn2n@main/v0006/index.html
+https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0007/index.html
+https://fastly.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0007/index.html
+https://gcore.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0007/index.html
+https://testingcf.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0007/index.html
+https://cdn.statically.io/gh/CaptainCSS/index-0rn2n/main/v0007/index.html
+https://rawcdn.githack.com/CaptainCSS/index-0rn2n/main/v0007/index.html
+https://raw.githack.com/CaptainCSS/index-0rn2n/main/v0007/index.html
+https://raw.githubusercontent.com/CaptainCSS/index-0rn2n/main/v0007/index.html
+https://esm.sh/gh/CaptainCSS/index-0rn2n@main/v0007/index.html
+https://raw.esm.sh/gh/CaptainCSS/index-0rn2n@main/v0007/index.html
+https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0008/index.html
+https://fastly.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0008/index.html
+https://gcore.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0008/index.html
+https://testingcf.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0008/index.html
+https://cdn.statically.io/gh/CaptainCSS/index-0rn2n/main/v0008/index.html
+https://rawcdn.githack.com/CaptainCSS/index-0rn2n/main/v0008/index.html
+https://raw.githack.com/CaptainCSS/index-0rn2n/main/v0008/index.html
+https://raw.githubusercontent.com/CaptainCSS/index-0rn2n/main/v0008/index.html
+https://esm.sh/gh/CaptainCSS/index-0rn2n@main/v0008/index.html
+https://raw.esm.sh/gh/CaptainCSS/index-0rn2n@main/v0008/index.html
+https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0009/index.html
+https://fastly.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0009/index.html
+https://gcore.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0009/index.html
+https://testingcf.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0009/index.html
+https://cdn.statically.io/gh/CaptainCSS/index-0rn2n/main/v0009/index.html
+https://rawcdn.githack.com/CaptainCSS/index-0rn2n/main/v0009/index.html
+https://raw.githack.com/CaptainCSS/index-0rn2n/main/v0009/index.html
+https://raw.githubusercontent.com/CaptainCSS/index-0rn2n/main/v0009/index.html
+https://esm.sh/gh/CaptainCSS/index-0rn2n@main/v0009/index.html
+https://raw.esm.sh/gh/CaptainCSS/index-0rn2n@main/v0009/index.html
+https://cdn.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0010/index.html
+https://fastly.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0010/index.html
+https://gcore.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0010/index.html
+https://testingcf.jsdelivr.net/gh/CaptainCSS/index-0rn2n@main/v0010/index.html
+https://cdn.statically.io/gh/CaptainCSS/index-0rn2n/main/v0010/index.html
+https://rawcdn.githack.com/CaptainCSS/index-0rn2n/main/v0010/index.html
+https://raw.githack.com/CaptainCSS/index-0rn2n/main/v0010/index.html
+https://raw.githubusercontent.com/CaptainCSS/index-0rn2n/main/v0010/index.html
+https://esm.sh/gh/CaptainCSS/index-0rn2n@main/v0010/index.html
+https://raw.esm.sh/gh/CaptainCSS/index-0rn2n@main/v0010/index.html
